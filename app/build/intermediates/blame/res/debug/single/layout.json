@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/adam/StudioProjects/practicals/SampleGithubTest/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_album.xml",
+        "source": "/home/adam/StudioProjects/practicals/SampleGithubTest/app/src/main/res/layout/item_album.xml"
+    },
+    {
+        "merged": "/home/adam/StudioProjects/practicals/SampleGithubTest/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_home.xml",
+        "source": "/home/adam/StudioProjects/practicals/SampleGithubTest/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/adam/StudioProjects/practicals/SampleGithubTest/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/home/adam/StudioProjects/practicals/SampleGithubTest/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/adam/StudioProjects/practicals/SampleGithubTest/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/home/adam/StudioProjects/practicals/SampleGithubTest/app/src/main/res/layout/activity_splash.xml"
+    }
+]
